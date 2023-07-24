@@ -1,5 +1,14 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`]
 
+## Environtments
+
+DATABASE_URL='connect with your prisma database'
+
+OPENAI_API_KEY=input your openai api key secret here
+
+NEXT_PUBLIC_URL=http://localhost:3000
+
+
 ## Getting Started
 
 First, run the development server:
